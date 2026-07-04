@@ -9,7 +9,7 @@
 # BOT INFORMATION
 # You must not leave them as blank!
 # ===========================================================================
-Token: "MTUyMjkwMDc0NTE0MDMwNjA1Mg.GY_Qbx.pGOONS94iQ-2ECK5m5rCvWgB0NtXEWPaDg52_0" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
+Token: MTUyMjkwMDc0NTE0MDMwNjA1Mg.GY_Qbx.pGOONS94iQ-2ECK5m5rCvWgB0NtXEWPaDg52_0 # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
 BotName: "Plex Tickets"
 GuildID: "GUILD_ID" # This is your server's ID, Right click on your server icon and copy ID
 EmbedColors: "#5e99ff" # Hex color!
